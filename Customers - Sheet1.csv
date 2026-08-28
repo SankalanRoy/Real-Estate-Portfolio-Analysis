@@ -1,0 +1,26 @@
+customer_id,customer_name,age,income,occupation,marital_status,first_time_buyer
+C001,John Smith,34,"£65,000",Software Engineer,Married,Yes
+C002,Sarah Jones,29,"£52,500",Marketing Manager,Single,YES
+C003,Michael Brown,45,"£92,000",Accountant,Married,No
+C004,Emily Davis,31,"£48,000",Teacher,single,Yes
+C005,Robert Wilson,52,"£110,000",Business Owner,Married,No
+C006,Priya Sharma,28,"£55,000",Data Analyst,Single,Yes
+C007,James Taylor,39,"£78,500",Engineer,Married,No
+C008,Olivia Moore,26,"£44,000",Nurse,Single,yes
+C009,Daniel Martin,47,"£98,000",Consultant,Married,NO
+C010,Sophia Anderson,33,"£61,000",HR Manager,Married,No
+C011,William Thomas,41,"£83,000",Finance Manager,married,No
+C012,Ava Jackson,27,"£46,500",Designer,Single,Yes
+C013,George White,36,"£70,000",IT Manager,Married,No
+C014,Mia Harris,30,"£51,000",Pharmacist,Single,YES
+C015,Thomas Clark,55,"£125,000",Director,Married,No
+C016,Isabella Lewis,32,"£58,000",Analyst,Single,Yes
+C017,Henry Walker,43,"£88,000",Architect,Married,NO
+C018,Amelia Hall,25,"£42,000",Administrator,Single,Yes
+C019,Charles Allen,49,"£102,000",Business Consultant,Married,No
+C020,Grace Young,35,"£67,000",Project Manager,Single,No
+C021,Jack King,38,"£75,000",Engineer,Married,No
+C022,Ella Wright,29,"£50,000",Teacher,Single,YES
+C023,Oscar Scott,44,"£91,500",Doctor,Married,No
+C024,Lily Green,27,"£45,000",Nurse,Single,Yes
+C025,Noah Baker,37,"£72,000",Sales Manager,Married,No

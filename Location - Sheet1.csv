@@ -1,0 +1,11 @@
+location_id,city,region,postcode,property_zone,avg_property_price
+L001,London,Greater London,SW1A,Central,"£650,000"
+L002,London,Greater London,E14,East,"£425,000"
+L003,Manchester,Greater Manchester,M1,Central,"£380,000"
+L004,Birmingham,West Midlands,B1,Central,"£315,000"
+L005,London,Greater London,N1,North,"£510,000"
+L006,Manchester,Greater Manchester,M20,South,"£425,000"
+L007,London,Greater London,SE1,South,"£575,000"
+L008,Birmingham,West Midlands,B15,South,"£350,000"
+L009,Bristol,South West,BS1,Central,"£395,000"
+L010,Birmingham,West Midlands,B5,Central,"£300,000"
